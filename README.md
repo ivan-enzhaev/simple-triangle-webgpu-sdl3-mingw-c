@@ -1,0 +1,1 @@
+[Guide](https://ivan-enzhaev.github.io/tutorials/sdl3-webgpu/mingw/simple-triangle-webgpu-sdl3-mingw-c)
