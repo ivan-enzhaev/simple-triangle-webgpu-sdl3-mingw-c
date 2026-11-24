@@ -1,7 +1,7 @@
 cmake_minimum_required(VERSION 3.21)
 
 if(NOT CMAKE_BUILD_TYPE)
-    set(CMAKE_BUILD_TYPE "Release") # "Debug" or "Release"
+    set(CMAKE_BUILD_TYPE "Debug") # "Debug" or "Release"
 endif()
 
 project(simple-triangle-webgpu-sdl3-mingw-c LANGUAGES C)
